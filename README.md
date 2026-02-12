@@ -44,9 +44,13 @@ pt – Quiz logic & timer system
 
 Quiz-App/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 ⚙ How to Run
