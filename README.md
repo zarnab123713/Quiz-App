@@ -1,12 +1,14 @@
 # Quiz-App
-🧠 Quiz Application – JavaScript Based Interactive Web App
+# 🧠 Quiz Application – JavaScript Based Interactive Web App
 
 A fully functional, responsive Quiz Application built using HTML, CSS, and Vanilla JavaScript.
 This project tests users’ basic web development knowledge with a live timer, score tracking, and restart functionality.
 
 Designed to be simple, fast, and beginner-friendly while following real front-end logic.
 
-🚀 Features
+---
+
+## 🚀 Features
 
 ✅ Multiple choice questions
 
@@ -22,17 +24,21 @@ Designed to be simple, fast, and beginner-friendly while following real front-en
 
 ✅ No page reload (pure JavaScript logic)
 
-🛠 Technologies Used
+---
 
-HTML5 – Structure
+## 🛠 Technologies Used
 
-CSS3 – Styling & Layout
+**HTML5** – Structure
 
-pt – Quiz logic & timer system
+**CSS3** – Styling & Layout
+
+**JS** – Quiz logic & timer system
 
 (No frameworks – pure core concepts)
 
-📸 Preview
+---
+
+## 📸 Preview
 
 <img width="954" height="513" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/13be8aa3-660b-4a18-b790-6be387efc47c" />
 
@@ -40,9 +46,11 @@ pt – Quiz logic & timer system
 
 <img width="835" height="576" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/cfe918c7-f5e3-4714-8621-a2333148ae0a" />
 
-📂 Project Structure
+---
 
-Quiz-App/
+## 📂 Project Structure
+
+**Quiz-App**/
 │
 
 ├── index.html
@@ -53,7 +61,9 @@ Quiz-App/
 
 └── README.md
 
-⚙ How to Run
+---
+
+## ⚙ How to Run
 
 Download or clone the repository
 
@@ -65,7 +75,9 @@ Answer questions before timer ends
 
 View your score and restart anytime
 
-🎯 Learning Outcomes
+---
+
+## 🎯 Learning Outcomes
 
 This project helps in understanding:
 
@@ -81,7 +93,9 @@ Score tracking system
 
 Perfect for beginners in JavaScript.
 
-📌 Future Improvements (Optional)
+---
+
+## 📌 Future Improvements (Optional)
 
 Per question timer
 
@@ -93,17 +107,21 @@ High score storage
 
 Category based quizzes
 
-👨‍💻 Author
+---
 
-Silent eXpert
-|Zarnab Fatima
+## 👨‍💻 Author
+
+Silent eXpert|Zarnab Fatima
 
 Frontend Developer | JavaScript Enthusiast
 
-⭐ Support
+---
+
+## ⭐ Support
 
 If you like this project, don’t forget to:
 
 ⭐ Star the repository
 🍴 Fork it
 📢 Share it
+---
